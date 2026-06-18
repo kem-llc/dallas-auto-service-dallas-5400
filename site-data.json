@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "Dallas Auto Service",
+    "shortName": "Dallas Auto",
+    "tagline": "Expert Auto Repair You Can Trust in Dallas",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 330-5400",
+    "address": "4331 S Hampton Rd, Dallas, TX 75232",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM, Sat: 8 AM - 12 PM",
+    "ctaLabel": "Schedule Your Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Dallas Auto Service | Trusted Auto Mechanic in Dallas, TX | (214) 330-5400",
+    "description": "Dallas Auto Service offers expert auto repair and maintenance in Dallas, TX. From brake repair to engine diagnostics, our certified mechanics provide reliable, affordable service. Call (214) 330-5400 today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Auto Repair Experts",
+      "headline": "Keep Your Car Running Smoothly with Professional Auto Service",
+      "subheadline": "From routine maintenance to major repairs, our certified mechanics deliver quality work at fair prices. Serving Dallas with honesty and expertise.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 330-5400"
+    },
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1,000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "4.2",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Diagnostics",
+        "title": "Accurate Diagnostics for Lasting Repairs",
+        "body": "Our advanced diagnostic equipment pinpoints issues quickly, saving you time and money. We explain every finding and only recommend necessary repairs.",
+        "bullets": [
+          "State-of-the-art diagnostic tools",
+          "Detailed explanations of all findings",
+          "No unnecessary upsells"
+        ],
+        "reverse": false,
+        "cardLabel": "Diagnostics",
+        "cardTitle": "Find the Problem Fast",
+        "cardBody": "Using the latest technology, we identify the root cause of any issue, ensuring your repair is done right the first time."
+      },
+      {
+        "eyebrow": "Preventative Maintenance",
+        "title": "Regular Maintenance to Extend Your Car's Life",
+        "body": "Stay ahead of costly breakdowns with our tailored maintenance plans. We follow manufacturer recommendations and use quality parts to keep your vehicle in peak condition.",
+        "bullets": [
+          "Oil changes, tire rotations, and more",
+          "Fluid checks and top-offs",
+          "Custom maintenance schedules"
+        ],
+        "reverse": true,
+        "cardLabel": "Maintenance",
+        "cardTitle": "Protect Your Investment",
+        "cardBody": "Regular maintenance not only prevents breakdowns but also improves fuel efficiency and resale value. Trust us to keep your car running great."
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Auto Service?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our mechanics are ASE-certified and continuously trained on the latest automotive technology."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide upfront estimates with no hidden fees. You'll approve all work before we begin."
+      },
+      {
+        "title": "Quality Parts Guarantee",
+        "description": "We use OEM or high-quality aftermarket parts backed by warranties for your peace of mind."
+      },
+      {
+        "title": "Customer Satisfaction Focus",
+        "description": "Your satisfaction is our priority. We stand behind our work with a 12-month/12,000-mile warranty."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my car here for years. They're honest, fair, and always get the job done right.",
+        "author": "Mike D.",
+        "role": "Oak Cliff Resident"
+      },
+      {
+        "quote": "Fast service and great communication. They explained everything and didn't try to sell me stuff I didn't need.",
+        "author": "Linda R.",
+        "role": "Dallas Homeowner"
+      },
+      {
+        "quote": "Best mechanic in Dallas! Fixed my transmission issue quickly and at a reasonable price. Highly recommend.",
+        "author": "James T.",
+        "role": "Downtown Commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Experience Reliable Auto Service?",
+      "subheadline": "Call us or book online to schedule your appointment. We look forward to serving you.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (214) 330-5400"
+    }
+  },
+  "servicesPage": {
+    "intro": "From routine oil changes to complex engine repairs, Dallas Auto Service offers a full range of auto repair services. Our certified technicians use the latest tools and techniques to keep your vehicle running safely and efficiently. Explore our services below and schedule your appointment today."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Service",
+      "shortDescription": "Expert brake inspection, repair, and replacement to ensure your safety on the road.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. At Dallas Auto Service, we provide comprehensive brake services including pad and rotor replacement, caliper repair, brake fluid flush, and ABS diagnostics. We use high-quality parts and precise techniques to restore stopping power and peace of mind.",
+      "benefits": [
+        "Enhanced safety and stopping performance",
+        "Reduced risk of costly rotor damage",
+        "Quieter, smoother braking",
+        "Extended brake system lifespan"
+      ],
+      "process": [
+        {
+          "title": "Thorough Inspection",
+          "description": "We check pads, rotors, calipers, lines, and fluid levels to identify all issues."
+        },
+        {
+          "title": "Transparent Recommendation",
+          "description": "We explain the condition of each component and provide a clear estimate with options."
+        },
+        {
+          "title": "Precision Service",
+          "description": "Our technicians perform the repair using quality parts and test drive to ensure perfect operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and conditions. We check them during every service."
+        },
+        {
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, vibration, a soft pedal, or longer stopping distances. Bring your car in if you notice any of these."
+        }
+      ],
+      "slug": "brake-repair-service"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights and performance issues.",
+      "longDescription": "When your check engine light comes on or your car isn't performing as it should, trust our diagnostic expertise. We use advanced scanners and experience to pinpoint the root cause—whether it's a sensor, fuel system, ignition, or mechanical issue. We then provide a clear plan for repair using quality parts.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Restored engine performance and fuel efficiency",
+        "Prevention of minor issues becoming major repairs",
+        "Warranty-backed repairs for peace of mind"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan & Analysis",
+          "description": "We connect diagnostic tools to read error codes and live data from your engine."
+        },
+        {
+          "title": "In-Depth Testing",
+          "description": "We perform additional tests (compression, vacuum, fuel pressure) to confirm the issue."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We fix the problem and test drive to ensure the repair resolves the issue completely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you diagnose any check engine light?",
+          "answer": "Yes, we have the equipment and expertise to diagnose all makes and models, including hybrid and diesel systems."
+        },
+        {
+          "question": "How long does a diagnostic take?",
+          "answer": "Most diagnostics take about an hour. We'll provide a detailed report of findings and recommendations."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Lube Services",
+      "shortDescription": "Quick, professional oil changes using quality oils and filters to protect your engine.",
+      "longDescription": "Regular oil changes are the simplest yet most important maintenance for your vehicle. We offer conventional, synthetic blend, and full synthetic oil changes, always including a new filter and a complimentary multi-point inspection. Our service is fast, thorough, and helps extend engine life.",
+      "benefits": [
+        "Improved engine lubrication and longevity",
+        "Better fuel economy and performance",
+        "Early detection of potential issues",
+        "Convenient scheduling and quick turnaround"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil & Replace Filter",
+          "description": "We drain the old oil and replace it with fresh oil and a new quality filter."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check fluid levels, belts, hoses, tires, and lights, noting any concerns."
+        },
+        {
+          "title": "Top-Off & Clean Up",
+          "description": "We top off all fluids and clean any spills, leaving your car ready to go."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil does my car need?",
+          "answer": "We recommend the oil grade specified in your owner's manual. We carry conventional, synthetic blend, and full synthetic options."
+        },
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern cars need an oil change every 5,000 to 7,500 miles. Older vehicles may require more frequent changes."
+        }
+      ],
+      "slug": "oil-change-lube-services"
+    },
+    {
+      "icon": "04",
+      "title": "Tire Services & Alignment",
+      "shortDescription": "Tire rotation, balancing, and alignment to maximize tire life and handling.",
+      "longDescription": "Proper tire care is essential for safety, fuel economy, and ride comfort. We offer tire rotation, balancing, and wheel alignment services. Our technicians use precision equipment to ensure your tires wear evenly and your vehicle handles correctly. We also provide tire repair and replacement recommendations.",
+      "benefits": [
+        "Extended tire life and even wear",
+        "Improved handling and stability",
+        "Better fuel efficiency",
+        "Smoother, quieter ride"
+      ],
+      "process": [
+        {
+          "title": "Tire Inspection & Pressure Check",
+          "description": "We inspect tread depth, sidewall condition, and adjust pressure to manufacturer specs."
+        },
+        {
+          "title": "Rotation & Balancing",
+          "description": "We rotate tires according to pattern and balance each wheel to eliminate vibration."
+        },
+        {
+          "title": "Precision Alignment",
+          "description": "Using a laser alignment machine, we adjust camber, caster, and toe to factory specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000 to 7,500 miles, or as recommended in your owner's manual. We include rotation with oil changes."
+        },
+        {
+          "question": "What are signs of alignment issues?",
+          "answer": "Pulling to one side, uneven tire wear, a crooked steering wheel, or vibration. If you notice any, schedule an alignment."
+        }
+      ],
+      "slug": "tire-services-alignment"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Auto Repair Shop Since 2000",
+    "mission": "To provide honest, high-quality auto repair services that keep our customers safe and their vehicles reliable. We believe in transparent communication, fair pricing, and craftsmanship.",
+    "story": [
+      "Dallas Auto Service was founded in 2000 by master technician John Miller, who wanted to create a shop where customers could trust every recommendation. Starting with just two bays, John built a reputation for diagnosing problems accurately and fixing them right the first time. Over two decades, we've grown into a full-service repair facility serving thousands of Dallas drivers.",
+      "Today, our team of ASE-certified technicians continues John's legacy of integrity and expertise. We invest in the latest diagnostic equipment and ongoing training to service all makes and models. Whether you need a simple oil change or a complex engine repair, we treat your car with the same care as our own. We're proud to be a trusted part of the Dallas community."
+    ],
+    "highlight": {
+      "stat": "20+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell you what your car needs—and what it doesn't. No upselling, no surprises."
+      },
+      {
+        "title": "Excellence",
+        "description": "Our technicians are certified and continuously trained to deliver top-quality repairs."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat every customer and every vehicle with respect, communicating clearly and courteously."
+      },
+      {
+        "title": "Community",
+        "description": "We support local businesses and families, and strive to be a positive force in Dallas."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Dallas Auto Service",
+    "subheadline": "Ready to schedule an appointment or have questions? Call us or fill out the form below. We'll get back to you promptly.",
+    "primaryCta": "Call (214) 330-5400",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Cliff",
+      "Cockrell Hill",
+      "DeSoto",
+      "Duncanville",
+      "Lancaster",
+      "Cedar Hill"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.2,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143305400",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
